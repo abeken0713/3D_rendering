@@ -1,0 +1,21 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+jupyter = "*"
+numpy = "*"
+matplotlib = "*"
+seaborn = "*"
+mayavi = "*"
+vtk = "*"
+ipyevents = "*"
+pandas = "*"
+pyqt5 = "*"
+tqdm = "*"
+
+[requires]
+python_version = "3.7"
